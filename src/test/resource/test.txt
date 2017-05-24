@@ -1,0 +1,173 @@
+
+Свернуть
+WLE Austria Logo (no text).svg
+Фотоконкурс «Вики любит Землю»: Ваш взгляд на российские природные памятники!
+WebSphere
+Материал из Википедии — свободной энциклопедии
+Текущая версия страницы пока не проверялась опытными участниками и может значительно отличаться от версии, проверенной 19 апреля 2013; проверки требуют 6 правок.
+Websphere logo.png
+
+WebSphere — семейство программных продуктов фирмы IBM. Часто WebSphere употребляется в качестве названия одного конкретного продукта: WebSphere Application Server (WAS). WebSphere относится к категории middleware — промежуточного программного обеспечения, которое позволяет приложениям электронного бизнеса (e-business) работать на разных платформах на основе веб‐технологий.
+
+WebSphere использует открытые стандарты XML и веб‐службы, реализованные на J2EE. Разработка ведётся в лабораториях IBM по всему миру. В России доступна локализованная версия WebSphere.
+
+Содержание
+
+    1 Продукты семейства
+    2 Версии WebSphere Application Server[1][2][3]
+    3 См. также
+    4 Примечания
+
+Продукты семейства
+
+    IBM CICS Transaction Server
+    IBM WebSphere Application Server (WAS)
+    IBM WebSphere Business Integration Connect
+    IBM WebSphere Business Integration InterChange Server (ICS)
+    IBM WebSphere Business Integration Server Foundation
+    IBM WebSphere Business Monitor
+    IBM WebSphere Commerce
+    IBM WebSphere Commerce Enhancements for Version 6.0
+    IBM WebSphere Customer Center
+    IBM WebSphere Data Interchange
+    IBM WebSphere Developer for zSeries (WDz)
+    IBM WebSphere Edge Server
+    IBM WebSphere ESB (Enterprise Service Bus)
+    IBM WebSphere Everyplace Connection Manager
+    IBM WebSphere Host Access Transformation Services (HATS)
+    IBM WebSphere Information Integrator (formerly Ascential software)
+    IBM WebSphere Message Broker
+    IBM WebSphere MQ (formerly MQSeries)
+    IBM WebSphere Partner GateWay
+    IBM WebSphere Portal
+    IBM WebSphere Process Server (WPS)
+    IBM WebSphere Product Center
+    IBM WebSphere RFID Premises Server
+    IBM WebSphere Studio Application Monitor (WSAM)
+    IBM WebSphere Studio Asset Analyzer (WSAA)
+    IBM WebSphere Data Integration Suite
+        IBM WebSphere DataStage
+        IBM WebSphere QualityStage
+        IBM WebSphere ProfileStage
+    IBM WebSphere Voice Response for AIX
+    IBM WebSphere Voice Server (WVS), speech recognition and Text-To-Speech (TTS) software
+    IBM WebSphere Web Services Gateway
+
+Версии WebSphere Application Server[1][2][3]
+WebSphere версия 	WebSphere 3.5 	WebSphere 4.0 	WebSphere 5.0 	WebSphere 5.1 	WebSphere 6.0 	WebSphere 6.1 	WebSphere 7.0 	WebSphere 8.0 	WebSphere 8.5 	WebSphere 8.5.5
+Дата выпуска 	1998 ? 	август 2001 	январь 2003 	январь 2004 	10 декабря 2004 	26 мая 2006 	26 сентября 2008 	17 июня 2011 	15 июня 2012 	14 июня 2013
+Конец поддержки 	30 ноябрь 2003 	30 апреля 2005 	30 сентября 2006 	30 сентября 2008 	30 сентября 2010 	30 сентября 2013
+JDK 	1.2 	1.3 	1.3 	1.4 	1.4 	5.0 	6.0 	6.0 	6.0/7.0 	6.0/7.0/7.1
+JavaEE 	? 	1.2 	1.3 	1.3 	1.4 	1.4 	5.0 	6.0 	6.0 	6.0
+Servlet 	2.1 2.2 	2.2 	2.3 	2.3 	2.4 	2.4 	2.5 	3.0 	3.0 	3.0
+JSF 	- 	- 	- 	- 	1.0 	1.1 	1.2 	2.0 	2.0 	2.0
+JSP 	0.91 1.0 1.1 	1.1 	1.2 	1.2 	2.0 	2.0 	2.1 	2.2 	2.2 	2.2
+EJB 	1.0 	1.1 	2.0 	2.0 	2.1 	2.1 	3.0 	3.1 	3.1 	3.1
+JDBC 				2.0 	2.1/3.0 	2.1/3.0 	4.0 	4.0 	4.1 	4.1
+JMS 				1.02 	1.1 	1.1 	1.1 	1.1 	1.1 	1.1
+WebSphere версия 	3.5 	4.0 	5.0 	5.1 	6.0 	6.1 	7.0 	8.0 	8.5 	8.5.5
+См. также
+
+    DB2
+    WebLogic
+    JBoss
+
+Примечания
+
+    ↑ IBM Software Support - WebSphere software lifecycle dates (англ.). www-01.ibm.com (1 November 2015). Проверено 1 ноября 2015.
+    ↑ IBM Verify Java SDK version shipped with IBM WebSphere Application Server fix packs - United States (en-US). www-01.ibm.com (11 сентября 2015). Проверено 1 ноября 2015.
+    ↑ IBM Knowledge Center (en-us). www-01.ibm.com (1 января 2013). Проверено 1 ноября 2015.
+
+
+[показать]⛭
+Сравнение веб-серверов
+[показать]⛭
+International Business Machines Corporation
+ПО 	Это заготовка статьи о программном обеспечении. Вы можете помочь проекту, дополнив её.
+Категории:
+
+    Java Enterprise EditionIBM WebSphereВеб-серверы на основе Java
+
+Навигация
+
+    Вы не представились системе
+    Обсуждение
+    Вклад
+    Создать учётную запись
+    Войти
+
+    Статья
+    Обсуждение
+
+    Читать
+    Текущая версия
+    Править
+    Править вики-текст
+    История
+
+Поиск
+
+    Заглавная страница
+    Рубрикация
+    Указатель А — Я
+    Избранные статьи
+    Случайная статья
+    Текущие события
+
+Участие
+
+    Сообщить об ошибке
+    Портал сообщества
+    Форум
+    Свежие правки
+    Новые страницы
+    Справка
+    Пожертвовать
+
+Инструменты
+
+    Ссылки сюда
+    Связанные правки
+    Спецстраницы
+    Постоянная ссылка
+    Сведения о странице
+    Цитировать страницу
+
+Печать/экспорт
+
+    Создать книгу
+    Скачать как PDF
+    Версия для печати
+
+В других проектах
+
+    Викисклад
+    Викиданные
+
+На других языках
+
+    العربية
+    Deutsch
+    English
+    Español
+    Français
+    日本語
+    Português
+
+Править ссылки
+
+    Эта страница последний раз была отредактирована 1 ноября 2015 в 12:12.
+    Текст доступен по лицензии Creative Commons Attribution-ShareAlike; в отдельных случаях могут действовать дополнительные условия. Подробнее см. Условия использования.
+    Wikipedia® — зарегистрированный товарный знак некоммерческой организации Wikimedia Foundation, Inc.
+    Свяжитесь с нами
+
+    Политика конфиденциальности
+    Описание Википедии
+    Отказ от ответственности
+    Разработчики
+    Соглашение о cookie
+    Мобильная версия
+
+    Wikimedia Foundation
+    Powered by MediaWiki
+
